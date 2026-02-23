@@ -63,7 +63,7 @@ const EXPLOSION_GROWTH = 1.5;
 
 const TRANSLATIONS = {
   zh: {
-    title: "Tina 新星防御",
+    title: "Tina 星空防御",
     start: "开始游戏",
     restart: "再玩一次",
     win: "胜利！你守护了星系",
@@ -77,7 +77,7 @@ const TRANSLATIONS = {
     nextRound: "下一轮",
   },
   en: {
-    title: "Tina Nova Defense",
+    title: "Tina Starry Defense",
     start: "Start Game",
     restart: "Play Again",
     win: "Victory! Galaxy Defended",

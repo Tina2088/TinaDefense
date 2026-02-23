@@ -1,4 +1,4 @@
-# Tina Nova Defense (Tina 新星防御)
+# Tina Starry Defense (Tina 星空防御)
 
 这是一个使用 React + Vite + Tailwind CSS 开发的经典导弹防御类塔防游戏。
 
